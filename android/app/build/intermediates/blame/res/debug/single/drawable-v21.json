@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\6b80aab9dc13f29d572403201730d9f51182db11\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\6b80aab9dc13f29d572403201730d9f51182db11\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\6b80aab9dc13f29d572403201730d9f51182db11\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\e84bd3be41e95d7a0db34fe0adf0581a619f1ed2\\output\\res\\drawable-v21\\notification_action_background.xml"
+    }
+]

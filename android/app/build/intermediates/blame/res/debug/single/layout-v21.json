@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\e84bd3be41e95d7a0db34fe0adf0581a619f1ed2\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\e84bd3be41e95d7a0db34fe0adf0581a619f1ed2\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\e84bd3be41e95d7a0db34fe0adf0581a619f1ed2\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\workspace_android\\mobile-reactnative-vanilla-master\\android\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\pbata\\.android\\build-cache\\e84bd3be41e95d7a0db34fe0adf0581a619f1ed2\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

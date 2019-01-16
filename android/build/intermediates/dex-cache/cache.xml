@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\7bedfa8f649a90b9a4cf34fd1eb9e2dbdbb4dd73\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e31331bdf6b5952badadbfc171f04b95c55d3b16">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_5721d20d76fdd3cd2a44f1ee4e378ed2ffdb2fc6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\90e19934915dce795a4eeb055a4d99c732106b93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_4775017c7f72e763154e7084e2388d456232e317.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\55494506697e18a87843d89ff9b868ccac48c8de\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_d8c4d78e267cb58d769df4162bc354fbd1500850.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\692e16bc85adca173f592d4e7715c6230a565aa9\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_1ef07145b1573f7e51dc4f33c5bfd3f58f2dde71.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\259864874de4255d9edd1dd856fc1cc4ff7581bb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_f08fd0ffda27b9ecfe21f1e70f89075aa273aa49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\okhttp-3.6.0_1bea920fa80f800117c008c13b9a3b3e91ca8885.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp-urlconnection\3.6.0\3f9b16b774f2c36cfd86dd2053d0b3059531dacc\okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\okhttp-urlconnection-3.6.0_ea01be12c75f2b81edb9f2fc8803143fa1c4d00d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\3c863188a453239aa58af30eafef81b9629f2a86\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_088cbff2ea810655640b0cff0cdfd7e4b40a169b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\7bedfa8f649a90b9a4cf34fd1eb9e2dbdbb4dd73\output\jars\libs\infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\infer-annotations-4.0_892d4a3d20d4fc896129b48d665942fb6e437ac4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.13.0\a9283170b7305c8d92d25aff02a6ab7e45d06cbe\okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\okio-1.13.0_0cd91644d6fa57e497990ee2891be7be574afb34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\9449f77b90eb703c94f50f9ef1a7b6891c81010b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_b49e7709f06aee70d2fe321f0b80c47e38e1194c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pbata\.android\build-cache\6e8115b81a6203ade1282660f444d86e5fa91ccb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="D:\workspace_android\mobile-reactnative-vanilla-master\android\app\build\intermediates\pre-dexed\debug\classes_8d88458b7e4794ffcb5d23c377aa376994f5b40d.jar" />
+    </item>
+
+</items>
